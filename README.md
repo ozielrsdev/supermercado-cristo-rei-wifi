@@ -18,7 +18,7 @@ Além de atualizar a senha, o sistema:
 - Envio automático da nova senha e QR Code no **WhatsApp Web**.
 - Empacotamento do programa com **cx_Freeze** para distribuição.
   ![Image](https://github.com/user-attachments/assets/7bc71244-3664-4aae-9fbb-c02886b0bf3e)
-  
+  ![Image](https://github.com/user-attachments/assets/91c5e8d8-ac65-4573-a626-38da5799a7c7)
 
 ---
 
