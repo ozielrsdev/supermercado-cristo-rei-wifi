@@ -149,7 +149,7 @@ def sendCode():
 
         print("💬 Enviando mensagem...")
         messageField = wait.until(EC.visibility_of_element_located(
-            (By.XPATH, "//div[@contenteditable='true'][@aria-label='Adicione uma legenda']")
+            (By.XPATH, "//div[@class='x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x1lkfr7t']")
         ))
         time.sleep(0.3)
         messageField.send_keys(Keys.CONTROL, "v")
